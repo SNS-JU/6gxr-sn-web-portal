@@ -89,4 +89,4 @@ People involved in the project:
 - 👨‍💻 Roberto Viola (<rviola@vicomtech.org>)
 
 # :shield: License
-GPLv3
+GNU Affero General Public License v3.0
